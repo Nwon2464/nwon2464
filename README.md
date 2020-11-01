@@ -1,7 +1,5 @@
 ### Hello World, I'm Won
 
-<br />
-
 ## On a journey to become a self-taught Front-end Developer 👍
 
 - 🤷‍♂️ I love building projects with React 😁
@@ -10,7 +8,6 @@
 - 🥅 2020 Goals: Master Vue for Front-end and Go for Back-end & Contribute to Open Source projects 😁
 
 <br />
-
 
 ### Languages :
 
