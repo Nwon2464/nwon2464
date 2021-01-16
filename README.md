@@ -3,9 +3,9 @@
 ## On a journey to become a self-taught Front-end Developer 👍
 
 - 🤷‍♂️ I love building projects with React 😁
-- 🌱 I’m currently learning Vue & Go 👀
+- 🌱 I’m currently learning Vue & Go & React Native 👀
 - 👯 Learning Learning Learning Learning and Learning 😃
-- 🥅 2020 Goals: Master Vue for Front-end and Go for Back-end & Contribute to Open Source projects 😁
+- 🥅 2021 Goals: Master Vue for Front-end and Go for Back-end & Contribute to Open Source projects 😁
 
 <br />
 
