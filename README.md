@@ -1,6 +1,6 @@
 ### Hello World, I'm Won
 
-## On a journey to become a Pro on coding  👍
+## On a journey to become RED on codeforces  👍
 <!-- 
 - 🤷‍♂️ I love building projects with React 😁
 - 🌱 I’m currently learning Vue & Go & React Native 👀
