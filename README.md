@@ -1,16 +1,16 @@
 ### Hello World, I'm Won
 
-## On a journey to become a self-taught Front-end Developer 👍
-
+## On a journey to become a Pro on coding  👍
+<!-- 
 - 🤷‍♂️ I love building projects with React 😁
 - 🌱 I’m currently learning Vue & Go & React Native 👀
 - 👯 Learning Learning Learning Learning and Learning 😃
 - 🥅 2021 Goals: Master Vue for Front-end and Go for Back-end & Contribute to Open Source projects 😁
-
+ -->
 <br />
 
-### Languages :
-
+<!-- ### Languages : -->
+<!-- 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -27,3 +27,4 @@
 
 <br />
 <br />
+ -->
